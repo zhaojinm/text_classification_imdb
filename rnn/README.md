@@ -4,10 +4,10 @@ requirement:
 python3, numpy, keras2.3.1, tensorflow 1.13.1
 
 how to run:
-"""python3 imdb.py"""
+```python3 imdb.py```
 
 output for GRU cell:
-"""
+```
 Model: "sequential_1"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
@@ -35,7 +35,7 @@ Epoch 5/10
 25000/25000 [==============================] - 92s 4ms/step - loss: 0.1925 - accuracy: 0.9310 - val_loss: 0.3307 - val_accuracy: 0.8731
 Epoch 00005: early stopping
 Accuracy: 87.31%
-"""
+```
 
 
 
